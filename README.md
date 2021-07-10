@@ -1,2 +1,2 @@
 # projectHumphrey
-Project Humphrey; The friendly arm.
+Project Humphrey: The friendly arm.
